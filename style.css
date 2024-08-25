@@ -1,0 +1,141 @@
+body{
+    font-family: "Roboto", sans-serif;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.nav {
+    display: flex;
+    justify-content: space-between;
+    /* width: 80%; */
+    align-items: center;
+}
+.top{
+    display: flex;
+    flex-direction: column;
+    margin: 5px 100px 60px 100px;
+}
+.hero{
+    padding: 50px;
+    display: flex;
+}
+.left, .right{
+    width: 50%;
+}
+.offer, .explore{
+    color: white;
+    display: inline-block;
+}
+.offer{
+    font-size: 15px;
+    background-color: rgb(59, 142, 59);
+    margin: 40px 0 40px 0;
+    padding: 10px 35px 10px 35px;
+}
+.explore{
+    font-size: 30px;
+    background-color: rgb(239, 190, 101);
+    margin-top: 15px;
+    padding: 12px;
+}
+.main-title{
+    font-size: 70px;
+    margin-top: -1px;
+    margin-bottom: -5px;
+}
+.bottom-container{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.box{
+    display: flex;
+    flex-direction: row;
+    font-size: small;
+}
+.feature-right {
+    width: 180px;
+    padding-left: 12px;
+}
+.top-words{
+    text-align: center;
+}
+.our-menu{
+    background-color: green;
+    color: white;
+    padding: 10px;
+    display: inline-block;
+    font-size: 25px;
+}
+.middle-section{
+    margin: 100px 100px 100px 100px;
+}
+.top-words{
+    margin-bottom: 40px;
+}
+.first-left{
+    display: flex;
+    flex-direction: row;
+}
+.item-image{
+    margin: 12px;
+}
+.left-bottom{
+    display: flex;
+    flex-direction: column;
+}
+.second-left{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
+.right-bottom{
+    display: flex;
+    flex-direction: column;
+    gap: 6.5px;
+}
+.our-foods{
+    display: flex;
+    flex-direction: row;
+}
+.ftr{
+    background-color: rgb(254, 232, 235);
+    padding: 50px;
+    padding-bottom: 120px;
+    font-size: medium;
+}
+.inner-footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-left: 105px;
+    padding-right: 105px;
+}
+.input-email{
+    padding-right:45px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left:4px;
+}
+.footer-items p{
+    margin: 5px 0;
+    padding: 0;
+    font-weight: 300;
+    font-size: 14px;
+    color: rgb(88, 86, 86);
+}
+.footer-items h3{
+    color: rgb(88, 86, 86);
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.footer-icons{
+    display: flex;
+    flex-direction: row;
+    gap:16px;
+    margin-top: 30px;
+}
+.top-words h1{
+    margin: 30px;
+}
