@@ -10,4 +10,4 @@ A responsive landing page highlighting the features of a food website, including
 - **Tailwind CSS**
 
 ## Visit the Live Site
-You can check out the live version of the food website [here]([https://your-website-link.com](https://codeghostx.github.io/Food-Wbsite-Landing-Page/).
+You can check out the live version of the food website [here]([Food Website Landing Page](https://codeghostx.github.io/Food-Wbsite-Landing-Page/).
